@@ -543,5 +543,4 @@ DE DIREITOS AUTORAIS E PODEM RESULTAR EM AÇÃO CIVIL E CRIMINAL.
 - [🔒 Política de Segurança](docs/SECURITY.md)
 
 ---
-
 *Última atualização: Julho 2025*
